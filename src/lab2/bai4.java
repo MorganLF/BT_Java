@@ -62,7 +62,7 @@ public class bai4 {
     }
 
     public static int Nhapsonguyen(String string) {
-        int i;
+        int i ;
         Scanner scanner= new Scanner(System.in);
         System.out.println(string);
         i=scanner.nextInt();
