@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class bai3 {1
+public class bai3 {
     public static void main(String[] args) {
         Scanner scanh = new Scanner(System.in);
         System.out.print("Nhap canh lap phuong: ");
