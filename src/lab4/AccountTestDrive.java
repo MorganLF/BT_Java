@@ -14,7 +14,7 @@ public class AccountTestDrive {
     }
     public static void main(String[] args) {
         Account a[] = null;
-        int k, b, n = 0;
+        int  b, n = 0;
         long s, d, c, f;
         boolean flag = true;
         do {
