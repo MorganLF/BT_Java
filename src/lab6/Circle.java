@@ -1,5 +1,6 @@
 package lab6;
 public class Circle {
+    String music= "ôi bạn ơi";
     boolean click = false ;
     void click(){
         click = !click;
