@@ -1,7 +1,7 @@
 package lab6;
 
 public class Square {
-    String music= "ôi bạn ơi";
+    String music;
     boolean click = false ;
     void click(){
         click = !click;
