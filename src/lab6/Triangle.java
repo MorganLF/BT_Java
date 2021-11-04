@@ -1,7 +1,7 @@
 package lab6;
 
 public class Triangle {
-    String music;
+    String Avalonlafae;
     boolean click = false ;
     void click(){
         click = !click;

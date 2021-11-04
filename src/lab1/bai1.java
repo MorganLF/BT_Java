@@ -9,7 +9,7 @@ public class bai1 {
         String hoTen = scanner.nextLine();
         System.out.print("Average point:");
         double diemTB = scanner.nextDouble();
-        System.out.printf("%s%f điểm",hoTen,diemTB);
+        System.out.printf("%s%f điểm số",hoTen,diemTB);
 
 
     }

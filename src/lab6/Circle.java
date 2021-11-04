@@ -1,6 +1,6 @@
 package lab6;
 public class Circle {
-    String music;
+    String Avalonlafae;
     boolean click = false ;
     void click(){
         click = !click;
